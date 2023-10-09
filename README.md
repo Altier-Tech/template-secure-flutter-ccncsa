@@ -11,7 +11,6 @@
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
     - [Project Scope](#project-scope)
-  - [Prerequisites](#prerequisites)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact Information](#contact-information)
@@ -38,18 +37,7 @@ and vice-versa.
 2. The model should at least be able to (trained for) identify three medicinal herbs.
 3. The users should be able to get the locations of which areas the plants would grow, or can be found.
 
-## Prerequisites
 
-- Python 3.8 or higher
-- pip 20.0 or higher
-- fastapi
-- uvicorn
-- pydantic
-- jose
-- passlib
-- mysql
-- keras
-- opencv
 
 ## Contributing
 
