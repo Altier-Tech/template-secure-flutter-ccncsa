@@ -1,4 +1,4 @@
-# Template: Secure 
+# Template: Secure Flutter 
 
 The server side application including the RestAPI with FastAPI and the ML models for the **Herb Classifier**
 application. It has OAuth2 authentication and JWT token generation. 
@@ -10,7 +10,7 @@ application. It has OAuth2 authentication and JWT token generation.
 
 ## Table of Contents
 
-- [Template: Secure](#template-secure)
+- [Template: Secure Flutter](#template-secure-flutter)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
     - [Project Scope](#project-scope)
