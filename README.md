@@ -27,5 +27,5 @@ This work is licensed under a
 For questions or feedback, please contact the author:
 
 - Authors: K. Nidarshana Uthpala, Dilshan M. Karunarathne
-- Email: ceo@altier.tech
+- Email: support@altier.tech
 - Website: [http://altier.tech](http://altier.tech)
