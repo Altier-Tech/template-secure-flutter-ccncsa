@@ -1,4 +1,4 @@
-# Herb Classifier Backend
+# Template: Secure 
 
 The server side application including the RestAPI with FastAPI and the ML models for the **Herb Classifier**
 application. It has OAuth2 authentication and JWT token generation. 
@@ -10,7 +10,7 @@ application. It has OAuth2 authentication and JWT token generation.
 
 ## Table of Contents
 
-- [Herb Classifier Backend](#herb-classifier-backend)
+- [Template: Secure](#template-secure)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
     - [Project Scope](#project-scope)
