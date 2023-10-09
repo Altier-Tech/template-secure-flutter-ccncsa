@@ -1,6 +1,6 @@
 # Template: Secure Flutter App
 
-This is a template for a secure flutter app with OAuth2 authentication and a secure backend. The backend is written in Python and uses the FastAPI framework. The backend is secured with OAuth2 authentication and JWT tokens. The frontend is written in Flutter and uses the Flutter AppAuth package for OAuth2 authentication. 
+This is a template for a secure flutter app with OAuth2 authentication and a secure backend. The backend is secured with OAuth2 authentication and JWT tokens. The frontend is written in Flutter and uses the Flutter AppAuth package for OAuth2 authentication. 
 
 [![Version](https://img.shields.io/badge/version-1.4-brightgreen.svg)](https://pypi.org/project/ad-topic-recommender/)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
