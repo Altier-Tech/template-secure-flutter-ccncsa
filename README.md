@@ -9,21 +9,10 @@
 
 - [Template: Secure Flutter App](#template-secure-flutter-app)
   - [Table of Contents](#table-of-contents)
-  - [Description](#description)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact Information](#contact-information)
 
-## Description
-
-We develop a centralized and comprehensive database system for Hela Wedakama using 
-the medicinal plants used in these medicine in Sri Lanka. We use image processing 
-techniques to identify five specific medicinal plants from weed plants that have similar 
-morphological features, making it difficult to distinguish them through visual inspection 
-alone.
-
-The application allows users to add locations of known medicinal plants using GPS. 
-Additionally, users can search for other plant locations using the application...
 
 
 ## Contributing
