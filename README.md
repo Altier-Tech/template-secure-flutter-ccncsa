@@ -7,7 +7,6 @@ This is a template for a secure flutter app with OAuth2 authentication and a sec
 
 The repository can be used for any Flutter project with the standard OAuth 2.0 authentication flow. 
 
-
 ## Contributing
 
 If you'd like to contribute to this project, please check the contribution guidelines for more information.
