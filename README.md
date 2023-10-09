@@ -5,7 +5,7 @@ This is a template for a secure flutter app with OAuth2 authentication and a sec
 [![Version](https://img.shields.io/badge/version-1.4-brightgreen.svg)](https://pypi.org/project/ad-topic-recommender/)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-The repository can be used for any Flutter project with the standard OAuth 2.0 authentication flow. The backend can be used for any Python project with the FastAPI framework.
+The repository can be used for any Flutter project with the standard OAuth 2.0 authentication flow. 
 
 
 ## Contributing
