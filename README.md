@@ -10,7 +10,6 @@
 - [Template: Secure Flutter App](#template-secure-flutter-app)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-    - [Project Scope](#project-scope)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact Information](#contact-information)
@@ -25,18 +24,6 @@ alone.
 
 The application allows users to add locations of known medicinal plants using GPS. 
 Additionally, users can search for other plant locations using the application...
-
-### Project Scope
-This study aims to provide consumers with a reliable source of information on traditional 
-medicines by developing a centralized database system for home remedies and medicinal 
-plants used in Sri Lankan traditional home remedies, which can be accessed as a mobile 
-application. 
-
-1. A user can search what herbal plants can be medicinally useful for a certain illness / disease,
-and vice-versa.
-2. The model should at least be able to (trained for) identify three medicinal herbs.
-3. The users should be able to get the locations of which areas the plants would grow, or can be found.
-
 
 
 ## Contributing
